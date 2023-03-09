@@ -1,0 +1,76 @@
+body{
+    margin-top: 20px;
+    background-color: lightgray;
+
+}
+.main{
+    padding: 15px;
+    font-family: sans-serif;
+
+}
+.topbar{
+    background-color: black;
+    overflow: hidden;
+
+}
+.topbar a{
+    float: right;
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px 26px;
+    text-decoration: none;
+    font-size: 26px;
+
+}
+.topbar a:hover{
+    background-color: rgb(102, 77, 15);
+    border-radius: 30px;
+}
+.sdiebar{
+    background-color: #333;
+    color: white;
+    height: 90px;
+}
+.sdiebar a{
+    margin-left: 10px;
+    display: block;
+    color: white;
+    padding-bottom: 10px;
+    font-size: 30px;
+
+}
+.card body{
+    position: relative;
+        display:flex;
+    flex-direction: column;
+    
+
+}
+
+.content{
+    background-color: white;
+
+}
+.mt-3 a {
+text-decoration: none;
+padding: 20px 26px;
+font-size: 20px;
+color: white;
+background-color:  black;
+border-radius: 10px;
+
+}
+.mt-3 a:hover{
+    background-color: rgb(102, 77, 15);
+}
+.pheader{
+    color: black;
+    font-size: 30px;
+    font-weight: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rounde-circle{
+    height: 220px;
+    width: 220px;
+border-radius: 200px;
+}
